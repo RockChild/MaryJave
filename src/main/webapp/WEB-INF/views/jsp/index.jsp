@@ -48,21 +48,21 @@
             <h2>Say hello to</h2>
             <p>Helen</p>
             <p>
-                <a class="btn btn-default" href="/spring4/hello/Helen" role="button">Hello</a>
+                <a class="btn btn-default" href="/spring4/hello/Helen" role="button">Hello!</a>
             </p>
         </div>
         <div class="col-md-4">
             <h2>Say hello to</h2>
             <p>Paul</p>
             <p>
-                <a class="btn btn-default" href="/spring4/hello/Paul" role="button">Hello</a>
+                <a class="btn btn-default" href="/spring4/hello/Paul" role="button">Hello!</a>
             </p>
         </div>
         <div class="col-md-4">
             <h2>Say hello to</h2>
             <p>Brad</p>
             <p>
-                <a class="btn btn-default" href="/spring4/hello/Brad" role="button">Hello</a>
+                <a class="btn btn-default" href="/spring4/hello/Brad" role="button">Hello!</a>
             </p>
         </div>
     </div>
